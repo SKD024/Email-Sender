@@ -6,7 +6,7 @@ from Pass import password
 
 email_sender = "sandipkda@gmail.com"
 email_password = password
-email_receiver= "nixife1825@facais.com"
+email_receiver= "" #enter the email of the receiver here.
 subject ="This is a test Automation email."
 body =" Hello, This is my first shot at sending emails with python as well as learning python."
 
